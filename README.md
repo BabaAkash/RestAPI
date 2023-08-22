@@ -13,7 +13,7 @@ Installation is done using the npm install command:
 2. git clone https://github.com/BabaAkash/RestAPI
 
 3. goto project directory:
-cd Rest_API_Assignmnet
+cd RestAPI
 
 Install the npm packages:
  npm install
