@@ -10,7 +10,7 @@ Installation is done using the npm install command:
 ---------Please note------------ Before using this module make sure you have installed mongoDB
 
 1. clone git repo using following command
-2. git clone https://github.com/BabaAkash/Rest_API_Assignmnet
+2. git clone https://github.com/BabaAkash/RestAPI
 
 3. goto project directory:
 cd Rest_API_Assignmnet
